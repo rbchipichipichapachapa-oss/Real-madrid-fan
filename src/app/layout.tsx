@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import Image from 'next/image';
+import Link from 'next/link';
 import './globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -43,9 +44,9 @@ export default function RootLayout({
             <div className="flex justify-between items-center">
               <div className="text-xl font-bold">Real Madrid Fan</div>
               <div className="space-x-4">
-                <a href="/" className="hover:text-gray-600">Home</a>
-                <a href="/news" className="hover:text-gray-600">News</a>
-                <a href="/spielplan" className="hover:text-gray-600">Spielplan</a>
+                <Link href="/" className="hover:text-gray-600">Home</Link>
+                <Link href="/news" className="hover:text-gray-600">News</Link>
+                <Link href="/spielplan" className="hover:text-gray-600">Spielplan</Link>
               </div>
             </div>
           </div>
