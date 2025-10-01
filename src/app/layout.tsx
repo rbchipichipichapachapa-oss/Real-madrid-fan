@@ -21,7 +21,7 @@ export default function RootLayout({
       <body className={`${inter.className} bg-transparent`}>
         <div className="background-container">
           <Image
-            src="/soccer-field.svg"
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/soccer-field.svg`}
             alt="Soccer Field"
             width={1920}
             height={1080}
@@ -31,7 +31,7 @@ export default function RootLayout({
         </div>
         <div className="ball-container">
           <Image
-            src="/soccer-ball.svg"
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/soccer-ball.svg`}
             alt="Soccer Ball"
             width={300}
             height={300}
