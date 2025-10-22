@@ -1,29 +1,56 @@
 [
   {
-    "title": "Bellingham begeistert weiter bei Real Madrid",
-    "description": "Der englische Nationalspieler setzt seine beeindruckende Form fort und führt Real Madrid zu einem wichtigen Sieg.",
-    "url": "https://www.realmadrid.com",
-    "publishedAt": "2025-10-01T10:00:00Z",
+    "title": "Alaba fehlt Real Madrid gegen Juventus",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3146927/",
+    "publishedAt": "2025-10-21T14:48:23Z",
     "source": {
-      "name": "Real Madrid News"
+      "name": "Sport.orf.at"
     }
   },
   {
-    "title": "Champions League: Real Madrid zeigt Kampfgeist",
-    "description": "Die Königlichen beweisen einmal mehr ihre außergewöhnliche Mentalität in Europas höchstem Wettbewerb.",
-    "url": "https://www.realmadrid.com",
-    "publishedAt": "2025-09-30T15:30:00Z",
+    "title": "Er spielte schon gegen PSG und Real Madrid - Rot-Weiß Erfurt holt Neuen für die Abwehr",
+    "description": "Das sind doch mal gute Nachrichten! Im heißen Herbst entspannt sich die Personallage beim FC Rot-Weiß Erfurt. Und ein Neuzugang wurde vorgestellt.",
+    "url": "https://www.bild.de/sport/fussball/er-spielte-schon-gegen-psg-und-real-madrid-rot-weiss-erfurt-holt-neuen-fuer-die-abwehr-68f791ac4fa665dfcbddc6e8",
+    "publishedAt": "2025-10-21T14:20:22Z",
     "source": {
-      "name": "Sport Aktuell"
+      "name": "Bild"
     }
   },
   {
-    "title": "Ancelotti plant Taktik-Revolution",
-    "description": "Der erfahrene Trainer überrascht mit innovativen taktischen Änderungen für die kommenden Spiele.",
-    "url": "https://www.realmadrid.com",
-    "publishedAt": "2025-09-29T14:15:00Z",
+    "title": "Rückschlag für Alaba: Kein Clasico mit Real Madrid gegen Barcelona",
+    "description": "David Alaba wird wegen seiner Wadenverletzung weder in der Champions League gegen Juventus noch am Wochenende gegen Reals Erzrivalen Barcelona mitwirken. Bayern München verlängerte unterdessen mit Vincent Kompany.",
+    "url": "https://www.diepresse.com/20228232/rueckschlag-fuer-alaba-kein-clasico-mit-real-madrid-gegen-barcelona",
+    "publishedAt": "2025-10-21T13:47:04Z",
     "source": {
-      "name": "Taktik Express"
+      "name": "Diepresse.com"
+    }
+  },
+  {
+    "title": "Ein besonderes Spiel für den VfB-Stürmer in Istanbul: Die vielen Lügen über Deniz Undav",
+    "description": "Deniz Undav ist Kurde – und als solcher in der Türkei mit irrwitzigen Behauptungen konfrontiert. Was wird ihn am Donnerstag mit dem VfB Stuttgart in Istanbul erwarten?",
+    "url": "https://www.tagesspiegel.de/sport/ein-besonderes-spiel-fur-den-vfb-sturmer-in-istanbul-die-vielen-lugengeschichten-uber-deniz-undav-14617475.html",
+    "publishedAt": "2025-10-21T13:37:33Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
+    "title": "DAZN überträgt den \"El Clásico\" kostenlos für alle",
+    "description": "Wenn sich am kommenden Sonntag Real Madrid und der FC Barcelona im legendären \"El Clásico\" gegenüberstehen, ist die Partie hierzulande bei DAZN zu sehen. Der Streamingdienst macht die Partie jedoch frei verfügbar.",
+    "url": "https://www.dwdl.de/nachrichten/104252/dazn_uebertraegt_den_el_clsico_kostenlos_fuer_alle/",
+    "publishedAt": "2025-10-21T11:11:00Z",
+    "source": {
+      "name": "Dwdl.de"
+    }
+  },
+  {
+    "title": "Mjällby schafft die Sensation: Fischerdorf tritt den Fußball-Großklubs in den Hintern",
+    "description": "Der schwedische Fußball-Meister steht bereits drei Spieltage vor Saisonende fest. Ein 1400-Einwohner-Dorf feiert den Riesencoup. In Mjällby gibt es viele Gründe für den Erfolg. Unter anderem eine ganz besondere Spezifikation des Co-Trainers.",
+    "url": "https://www.n-tv.de/sport/fussball/Fischerdorf-tritt-den-Fussball-Grossklubs-in-den-Hintern-article26109578.html",
+    "publishedAt": "2025-10-21T11:07:37Z",
+    "source": {
+      "name": "N-tv.de"
     }
   }
 ]
