@@ -1,5 +1,41 @@
 [
   {
+    "title": "Guardiola feiert „Tausender“ mit Sieg",
+    "description": "Der 3:0-Heimerfolg von Manchester City über Meister Liverpool am Sonntag in der englischen Premier League war nicht nur eine Kampfansage in Richtung Tabellenführer Arsenal, sondern zugleich ein erfolgreiches Jubiläum für Josep „Pep“ Guardiola. „Ich möchte mic…",
+    "url": "https://sport.orf.at/stories/3147597/",
+    "publishedAt": "2025-11-10T13:41:19Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Spektakuläre NFL-Party in Berlin - dank Monster-Aufwand",
+    "description": "Das erste reguläre NFL-Spiel in der deutschen Hauptstadt wird ein großer Erfolg für Fans des American Football - allerdings waren massive Anstrengungen nötig, um das Spiel im Olympiastadion möglich zu machen. Am 36. Jahrestag des Mauerfalls bot das Olympiasta…",
+    "url": "https://www.dw.com/de/spektakul%C3%A4re-nfl-party-in-berlin-dank-monster-aufwand/a-74686242",
+    "publishedAt": "2025-11-10T12:18:00Z",
+    "source": {
+      "name": "DW (English)"
+    }
+  },
+  {
+    "title": "Reichlich Feuer bei Real Madrid: Medien stellen \"unfähigen\" Xabi Alonso an den Pranger",
+    "description": "Das Starensemble von Real Madrid trifft nicht mehr. Nach zwei Pflichtspielen ohne Torerfolg rückt Trainer Xabi Alonso in den Fokus. Eine Zeitung veröffentlicht gar einen durchaus brisanten Bericht, der angebliche Zweifel am ehemaligen Leverkusener Trainer off…",
+    "url": "https://www.n-tv.de/sport/fussball/Medien-stellen-unfaehigen-Xabi-Alonso-an-den-Pranger-id30001129.html",
+    "publishedAt": "2025-11-10T09:24:26Z",
+    "source": {
+      "name": "N-tv.de"
+    }
+  },
+  {
+    "title": "Königliche Mini-Krise: Real Madrid torlos: Zweifel an Alonso wachsen nach Remis",
+    "description": "Das Starensemble der Königlichen trifft nicht mehr. Zwei Pflichtspiele ohne Torerfolg. Das ruft Zweifel hervor am Real-Team und an Trainer Xabi Alonso, wie spanische Medien schreiben.",
+    "url": "https://www.tagesspiegel.de/sport/konigliche-mini-krise-real-madrid-torlos-zweifel-an-alonso-wachsen-nach-remis-14797517.html",
+    "publishedAt": "2025-11-10T08:08:32Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
     "title": "Lewandowski trifft dreifach – FC Barcelona rückt nach Real-Patzer näher an Madrid",
     "description": "Dank eines Dreierpacks von Robert Lewandowski hat der FC Barcelona den Rückstand auf Real Madrid in der spanischen Meisterschaft wieder verkürzt. Das Team von Trainer Hansi Flick gewann...",
     "url": "https://www.transfermarkt.de/lewandowski-trifft-dreifach-barcelona-ruckt-nach-real-patzer-naher-an-madrid/view/news/462694",
@@ -15,42 +51,6 @@
     "publishedAt": "2025-11-09T22:04:57Z",
     "source": {
       "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Presse fällt vernichtendes Liverpool-Urteil, Wirtz wird von Heimfans gedemütigt",
-    "description": "Der FC Liverpool verliert klar bei Manchester City und steckt in der Premier League in der Krise. Florian Wirtz wird bei seiner Auswechslung von den Heimfans gedemütigt. Die englische Presse übt deutliche Kritik.",
-    "url": "https://www.focus.de/sport/fussball/presse-faellt-vernichtendes-liverpool-urteil-wirtz-wird-von-heimfans-gedemuetigt_66d0cc63-fa16-454e-b400-6fbfc535f066.html",
-    "publishedAt": "2025-11-09T21:31:29Z",
-    "source": {
-      "name": "Focus"
-    }
-  },
-  {
-    "title": "\"Krise\": Presse fällt vernichtendes Liverpool-Urteil, Wirtz von Fans gedemütigt",
-    "description": "Der FC Liverpool verliert klar bei Manchester City und steckt in der Premier League in der Krise. Die englische Presse übt deutliche Kritik. Auch an Florian Wirtz.",
-    "url": "https://www.focus.de/sport/fussball/krise-presse-faellt-vernichtendes-liverpool-urteil-wirtz-von-fans-gedemuetigt_66d0cc63-fa16-454e-b400-6fbfc535f066.html",
-    "publishedAt": "2025-11-09T21:31:29Z",
-    "source": {
-      "name": "Focus"
-    }
-  },
-  {
-    "title": "Premier League: Wirtz und Liverpool gehen bei Manchester City unter",
-    "description": "Englands Fußballmeister FC Liverpool kommt nicht in die Spur. Wenige Tage nach dem Sieg über Real Madrid kassieren die Reds in der Premier League eine deutliche Niederlage bei Rivale Manchester City.",
-    "url": "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-verliert-mit-fc-liverpool-bei-manchester-city-mit-0-3-110772909.html",
-    "publishedAt": "2025-11-09T20:03:00Z",
-    "source": {
-      "name": "Faz.net"
-    }
-  },
-  {
-    "title": "Haaland vergibt sogar Elfmeter: Manchester City deklassiert taumelnden FC Liverpool",
-    "description": "Der FC Liverpool wird seinen Meistertitel wohl nicht erfolgreich verteidigen können, Manchester City dagegen ist zurück auf dem Weg zu alter Klasse: Im direkten Duell wird es bitter für den Meister. Nick Woltemade verabschiedet sich mit einer Niederlage zur N…",
-    "url": "https://www.n-tv.de/sport/fussball/Manchester-City-deklassiert-taumelnden-FC-Liverpool-article26150848.html",
-    "publishedAt": "2025-11-09T18:53:09Z",
-    "source": {
-      "name": "N-tv.de"
     }
   }
 ]
