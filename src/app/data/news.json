@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ganz viele Spiele für Sie! - So sehen Sie Fußball heute live im TV",
+    "description": "Der Start ins Wochenende bringt viel Fußball. Welche Spiele heute wo im TV live laufen.",
+    "url": "https://www.bild.de/sport/fussball/so-sehen-sie-fussball-heute-live-im-tv-bundesliga-2-liga-premier-league-etc-6926aed3a7ffaf1fe5c73e60",
+    "publishedAt": "2025-11-29T05:23:31Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "Basketball-WM-Quali heute - So sehen Sie Deutschland gegen Israel GRATIS im TV",
+    "description": "Es geht in die WM-Quali! Deutschlands Basketballer sehen Sie heute gratis live im TV.",
+    "url": "https://www.bild.de/sport/mehr-sport/deutschland-israel-heute-gratis-im-tv-basketball-wm-quali-heute-live-sehen-692936dce9b1296b9ef96404",
+    "publishedAt": "2025-11-28T10:50:20Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "„Asozial“ – Gegner macht sich über Nase von deutschem Nationalspielers lustig",
+    "description": "Stuttgarts Angelo Stiller wird beim Europa-League-Spiel in den Niederlanden heftig provoziert. Sein Gegenspieler spielt mit einer Geste auf das Aussehen des Nationalspielers an. Der RTL-Kommentator macht seinem Ärger Luft.",
+    "url": "https://www.welt.de/sport/fussball/bundesliga/vfb-stuttgart/article69294afce9b1296b9ef96508/vfb-stuttgart-asozial-gegner-macht-sich-ueber-nase-von-angelo-stiller-lustig.html",
+    "publishedAt": "2025-11-28T09:11:55Z",
+    "source": {
+      "name": "DIE WELT"
+    }
+  },
+  {
+    "title": "Ex-Fußballprofi: Toni Kroos erhält das Bundesverdienstkreuz",
+    "description": "Bundespräsident Frank-Walter Steinmeier hat Fußball-Weltmeister Toni Kroos in Madrid das Bundesverdienstkreuz verliehen. Steinmeier würdigt Kroos als \"lebende Legende\".",
+    "url": "https://www.stern.de/sport/fussball/toni-kroos-bekommt-von-steinmeier-das-bundesverdienstkreuz-verliehen-36906088.html",
+    "publishedAt": "2025-11-28T06:39:00Z",
+    "source": {
+      "name": "STERN.de"
+    }
+  },
+  {
     "title": "Basketball, WM-Quali - Deutschland gegen Israel heute GRATIS im TV sehen",
     "description": "Es geht in die WM-Quali! Deutschlands Basketballer sehen Sie heute gratis live im TV.",
     "url": "https://www.bild.de/sport/mehr-sport/deutschland-israel-heute-gratis-im-tv-basketball-wm-quali-live-sehen-692936dce9b1296b9ef96404",
@@ -15,42 +51,6 @@
     "publishedAt": "2025-11-27T21:18:00Z",
     "source": {
       "name": "STERN.de"
-    }
-  },
-  {
-    "title": "Große Ehre! - Toni Kroos erhält Bundesverdienstkreuz",
-    "description": "Toni Kroos erhält das Bundesverdienstkreuz im Bernabéu-Stadion von Frank-Walter Steinmeier.",
-    "url": "https://www.bild.de/sport/fussball/toni-kroos-erhaelt-bundesverdienstkreuz-im-bernabeu-692895714fc71835db75d1f1",
-    "publishedAt": "2025-11-27T18:24:42Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Auszeichnungen: Ex-Nationalspieler Kroos mit Bundesverdienstkreuz geehrt",
-    "description": "Gerald Asamoah hat soeben eines bekommen und jetzt auch Toni Kroos: ein Bundesverdienstkreuz. Um damit vom Bundespräsidenten ausgezeichnet zu werden, braucht es aber mehr als sportliche Erfolge.",
-    "url": "https://www.tagesspiegel.de/sport/auszeichnungen-ex-nationalspieler-kroos-mit-bundesverdienstkreuz-geehrt-14973014.html",
-    "publishedAt": "2025-11-27T17:37:15Z",
-    "source": {
-      "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "\"Deutsch-spanische Fußball-Legende\": Steinmeier ehrt Toni Kroos mit Bundesverdienstkreuz",
-    "description": "Auszeichnung für eine \"deutsch-spanische Fußball-Legende\": Bundespräsident Frank-Walter Steinmeier hat den früheren Nationalspieler und Real-Madrid-Star Toni Kroos mit dem Bundesverdienstkreuz geehrt. Bei einer Zeremonie im Bernabéu-Stadion von Real Madrid – …",
-    "url": "https://www.stern.de/news/-deutsch-spanische-fussball-legende---steinmeier-ehrt-toni-kroos-mit-bundesverdienstkreuz-36905816.html",
-    "publishedAt": "2025-11-27T17:12:26Z",
-    "source": {
-      "name": "STERN.de"
-    }
-  },
-  {
-    "title": "Richtungsweisendes Spiel für Sturm in Athen",
-    "description": "Bei Sturm Graz läuft es vor dem richtungsweisenden Gastspiel in der UEFA Europa League beim griechischen Traditionsverein Panathinaikos am Donnerstag (21.00 Uhr) unrund. Ob Österreichs Meister gar schon in der Krise steckt, „müssen andere beurteilen“, sagte S…",
-    "url": "https://sport.orf.at/stories/3148222/",
-    "publishedAt": "2025-11-27T16:01:20Z",
-    "source": {
-      "name": "Sport.orf.at"
     }
   }
 ]
