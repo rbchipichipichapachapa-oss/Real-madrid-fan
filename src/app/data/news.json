@@ -1,5 +1,32 @@
 [
   {
+    "title": "Die Kolumne „Küchenhilfe“: Die Königin der Tiefsee",
+    "description": "Gute Garnelen sind Raritäten, und die Gamba Carabiniera ist die allerbeste unter ihnen – auch für den Drei-Sterne-Koch Torsten Michel aus Baiersbronn, der sie wie ein Festmahl des Poseidons zubereitet.",
+    "url": "https://www.faz.net/aktuell/feuilleton/beste-gamba-rezept-vom-drei-sterne-koch-torsten-michel-110796980.html",
+    "publishedAt": "2025-12-06T11:20:02Z",
+    "source": {
+      "name": "Faz.net"
+    }
+  },
+  {
+    "title": "Die zwei besten Torjäger Europas - Kane liefert sich Baller-Duell mit Mbappé!",
+    "description": "Sie sind die besten Torjäger Europas: Bayern-Stürmer Harry Kane und Real-Knipser Kylian Mbappé treffen gerade in ihrer eigenen Zwei-Mann-Liga!",
+    "url": "https://www.bild.de/sport/fussball/fc-bayern-harry-kane-und-real-stuermer-kylian-mbappe-liefern-sich-galaktisches-baller-duell-69329231074aff607680fec3",
+    "publishedAt": "2025-12-06T10:25:08Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "\"Kein drittes Mal versucht!\": Als Günter Netzer bei einem Weltstar den Nikolaus spielte",
+    "description": "Der heilige Schutzpatron Nikolaus hat auch im Fußball immer wieder Einzug gehalten und für manch unterhaltsame Geschichte und viele unvergessliche Sprüche gesorgt. Günter Netzer spielte gerne den Nikolaus, bis er enttarnt wurde und Jürgen Klopp half das Kostü…",
+    "url": "https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-Guenter-Netzer-bei-einem-Weltstar-den-Nikolaus-spielte-id30108540.html",
+    "publishedAt": "2025-12-06T07:59:56Z",
+    "source": {
+      "name": "N-tv.de"
+    }
+  },
+  {
     "title": "Volles Programm - So sehen Sie Fußball heute im TV",
     "description": "BILD liefert Ihnen einen Überblick, wann und wo Sie heute welches Spiel live im TV verfolgen können.",
     "url": "https://www.bild.de/sport/fussball/so-sehen-sie-fussball-heute-im-tv-mit-bundesliga-premier-league-co-692ecdea4affd46d6550b2b0",
@@ -24,33 +51,6 @@
     "publishedAt": "2025-12-05T17:48:09Z",
     "source": {
       "name": "Bild"
-    }
-  },
-  {
-    "title": "In „True or not true“ - Xabi Alonso jagt Ex-Bayern-Talent",
-    "description": "Xabi Alonso und Real Madrid suchen Verstärkung in der Offensive.",
-    "url": "https://www.bild.de/sport/fussball/in-true-or-not-true-xabi-alonso-jagt-ex-bayern-talent-693314febdb9c3d5970e5640",
-    "publishedAt": "2025-12-05T17:44:56Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Thomas Müller im Finale der MLS: Elf kuriose Geschichten aus dem Fußball in Nordamerika",
-    "description": "An diesem Samstag trifft Thomas Müller im Finale der Major League Soccer auf Lionel Messi. Ein guter Anlass, auf die Vergangenheit des Fußballs in Nordamerika zurückzublicken.",
-    "url": "https://www.tagesspiegel.de/thomas-muller-im-finale-der-mls-elf-kuriose-geschichten-aus-dem-fussball-in-nordamerika-15022748.html",
-    "publishedAt": "2025-12-05T14:42:47Z",
-    "source": {
-      "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Thomas Müller im Finale der MLS: Elf kuriose Geschichten aus dem Fußball in Nordamerika",
-    "description": "An diesem Samstag trifft Thomas Müller im Finale der Major League Soccer auf Lionel Messi. Ein guter Anlass, auf die Vergangenheit des Fußballs in Nordamerika zurückzublicken.",
-    "url": "https://www.tagesspiegel.de/sport/thomas-muller-im-finale-der-mls-elf-kuriose-geschichten-aus-dem-fussball-in-nordamerika-15022748.html",
-    "publishedAt": "2025-12-05T14:42:47Z",
-    "source": {
-      "name": "Der Tagesspiegel"
     }
   }
 ]
