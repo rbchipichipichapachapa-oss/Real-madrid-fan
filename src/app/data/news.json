@@ -1,5 +1,41 @@
 [
   {
+    "title": "Barcelona gewinnt Derby bei Espanyol im Finish",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3149625/",
+    "publishedAt": "2026-01-03T22:22:35Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Spanischer Fußball: Dani Olmo und Lewandowski entscheiden Barcelona-Derby",
+    "description": "Im Stadtduell zwischen Espanyol und dem FC Barcelona steht immer wieder ein Spieler im Mittelpunkt. Für den schmeichelhaften Sieg sorgen spät zwei einstige Bundesliga-Profis.",
+    "url": "https://www.tagesspiegel.de/sport/spanischer-fussball-dani-olmo-und-lewandowski-entscheiden-barcelona-derby-15099963.html",
+    "publishedAt": "2026-01-03T22:04:53Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
+    "title": "FC Santos leiht Gabriel Barbosa - Wiedervereinigung mit Neymar",
+    "description": "Der FC Santos hat sich die Dienste von Gabriel Barbosa (29), auch bekannt als Gabigol, gesichert. Der Stürmer kommt für ein Jahr auf Leihbasis von Cruzeiro nach Sao Paulo. Damit feiert...",
+    "url": "https://www.transfermarkt.de/barbosa-mit-neymar-wiedervereint-erneute-ruckkehr-zum-fc-santos/view/news/473043",
+    "publishedAt": "2026-01-03T13:52:11Z",
+    "source": {
+      "name": "Transfermarkt"
+    }
+  },
+  {
+    "title": "Welcher Star nicht von seiner Seite wich - Knipser-Kaltstart für Arévalo beim VfB",
+    "description": "Bei kalten Temperaturen absolvierte Jeremy Arévalo (20) die erste Trainingseinheit mit dem VfB Stuttgart. Bald soll aus dem Kaltstart ein Knallstart werden.",
+    "url": "https://www.bild.de/sport/fussball/vfb-stuttgart-wer-nicht-von-seiner-seite-wich-knipser-kaltstart-fuer-arevalo-69590db5cf4737ac6059ad26",
+    "publishedAt": "2026-01-03T13:18:28Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
     "title": "In Heimat seiner Mutter - Rüdiger lädt Menschen mit Behinderung ein",
     "description": "Antonio Rüdiger unterstützt Menschen in Sierra Leone – dem Heimatland seiner Mutter – mit wohltätigen Aktionen und Projekten.",
     "url": "https://www.bild.de/sport/fussball/tolle-aktion-zu-weihnachten-ruediger-laedt-menschen-mit-behinderung-ein-69577eeb24b6e14cd223619a",
@@ -15,42 +51,6 @@
     "publishedAt": "2026-01-01T18:21:14Z",
     "source": {
       "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Fußball: Antonio Rüdigers Weihnachtsreise nach Sierra Leone",
-    "description": "Antonio Rüdiger engagiert sich schon länger für Menschen in Sierra Leone. Während der Winterpause reist der Fußballprofi erneut nach Westafrika - und zum ersten Mal in die Heimatregion seiner Mutter.",
-    "url": "https://www.stern.de/sport/fussball--antonio-ruedigers-weihnachtsreise-nach-sierra-leone-37004044.html",
-    "publishedAt": "2026-01-01T18:20:04Z",
-    "source": {
-      "name": "STERN.de"
-    }
-  },
-  {
-    "title": "Meiste Tore 2025: Mbappé distanziert Kane – Zwei Deutsche in Top-50",
-    "description": "Was haben Viktor Gyökeres (27), Erling Haaland (25), Kylian Mbappé (27) und Robert Lewandowski (37) gemeinsam? Genannte Stürmer waren die jeweils besten Torschützen des Jahres...",
-    "url": "https://www.transfermarkt.de/meiste-tore-2025-mbappe-distanziert-kane-zwei-deutsche-sturmer-in-top-50/view/news/464498",
-    "publishedAt": "2026-01-01T11:00:00Z",
-    "source": {
-      "name": "Transfermarkt"
-    }
-  },
-  {
-    "title": "Kein Herzinfarkt bei Fußballstar: Roberto Carlos gibt Entwarnung aus der Klinik",
-    "description": "Nach Berichten über eine Notoperation meldet sich Roberto Carlos selbst zu Wort. Die brasilianische Fußballlegende gibt Entwarnung.",
-    "url": "https://www.stern.de/lifestyle/leute/kein-herzinfarkt-bei-fussballstar--roberto-carlos-gibt-entwarnung-aus-der-klinik-37003058.html",
-    "publishedAt": "2026-01-01T08:19:00Z",
-    "source": {
-      "name": "STERN.de"
-    }
-  },
-  {
-    "title": "100 wertvollste Spieler der Welt: Sieben Bayern-Profis um Karl dabei",
-    "description": "Zehntausende Fußballer haben auf Transfermarkt 2025 im Zuge von vier Update-Intervallen neue Marktwerte erhalten. Um heute zu den 100 Wertvollsten zu gehören, ist ein Marktwert von 55...",
-    "url": "https://www.transfermarkt.de/100-wertvollste-spieler-sieben-bayern-profis-um-karl-dabei-neues-trio-an-der-spitze/view/news/464686",
-    "publishedAt": "2026-01-01T08:00:00Z",
-    "source": {
-      "name": "Transfermarkt"
     }
   }
 ]
