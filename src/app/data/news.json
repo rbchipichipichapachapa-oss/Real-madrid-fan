@@ -1,5 +1,41 @@
 [
   {
+    "title": "Real Madrid legt im Kampf um Platz eins vor",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3150512/",
+    "publishedAt": "2026-01-24T22:03:41Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Auslandsfußball: Real legt dank Mbappé mit Sieg im Spitzenspiel vor",
+    "description": "Real schlägt Villarreal. Die Madrilenen gewinnen das Topspiel, erobern vorerst die Tabellenführung und setzen Erzrivale FC Barcelona mit Coach Hansi Flick unter Druck.",
+    "url": "https://www.tagesspiegel.de/sport/auslandsfussball-real-legt-dank-mbappe-mit-sieg-im-spitzenspiel-vor-15178492.html",
+    "publishedAt": "2026-01-24T21:58:45Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
+    "title": "Neuzugang für Schalke – „Bruder, geh!“, riet ihm sein Kollege",
+    "description": "Noch vor Sonnenaufgang am Flughafen empfangen, Stunden später mit Vertrag in Königsblau: Edin Dzeko ist Schalker und erklärt seine Beweggründe. Der prominenteste Zugang seit Raúl entfacht Euphorie wie lange nicht, wirft aber auch Fragen auf.",
+    "url": "https://www.welt.de/sport/fussball/2-bundesliga/article697370adf5499fb954b638dc/schalke-04-edin-dzeko-brate-geh.html",
+    "publishedAt": "2026-01-24T14:22:18Z",
+    "source": {
+      "name": "DIE WELT"
+    }
+  },
+  {
+    "title": "Hans Mahr: \"Entweder man verändert sich oder man wird verändert\"",
+    "description": "Der frühere RTL-Chefredakteur Hans Mahr hat schon viele Berufe ausgeübt. Jetzt kommt ein neuer hinzu: Restaurantkritiker auf Social Media. Oder ist \"Gastro-Terrorist\" passender? Eine Nahaufnahme.",
+    "url": "https://www.dwdl.de/nahaufnahme/105294/hans_mahr_entweder_man_veraendert_sich_oder_man_wird_veraendert/",
+    "publishedAt": "2026-01-24T10:03:00Z",
+    "source": {
+      "name": "Dwdl.de"
+    }
+  },
+  {
     "title": "Königin Letizia bei Neujahrsempfang: Sie setzt auf die Trendfarbe des Jahres",
     "description": "Königin Letizia beweist ihr Gespür für Trends: Beim Diplomatenempfang in Madrid trug sie ein nachtblaues Samtkleid.",
     "url": "https://www.stern.de/lifestyle/leute/koenigin-letizia-bei-neujahrsempfang--sie-setzt-auf-die-trendfarbe-des-jahres-37071640.html",
@@ -15,42 +51,6 @@
     "publishedAt": "2026-01-23T16:38:00Z",
     "source": {
       "name": "Focus"
-    }
-  },
-  {
-    "title": "Eberl bestätigt: FC Bayern wartet weiter auf Upamecanos Zukunftsentscheidung",
-    "description": "Im zähen Vertragspoker lässt Dayot Upamecano den FC Bayern weiter warten. „Ich weiß nicht, ob es eine Verzögerung gab. Es wurde spekuliert, dass Upa quasi zugesagt hat....",
-    "url": "https://www.transfermarkt.de/eberl-bestatigt-keine-zusage-sondern-warten-auf-upamecanos-antwort-zwei-fragen-offen-/view/news/474133",
-    "publishedAt": "2026-01-23T11:44:42Z",
-    "source": {
-      "name": "Transfermarkt"
-    }
-  },
-  {
-    "title": "Fußball-Bundesliga: Poker um Upamecano - auf was der FC Bayern wartet",
-    "description": "Verlängert Dayot Upamecano? Geht er im Sommer ablösefrei? Eine Entscheidung über die Zukunft des Innenverteidigers in München steht weiter aus. Der Trainer wirbt geschickt um ein „Ja“.",
-    "url": "https://www.tagesspiegel.de/sport/fussball-bundesliga-poker-um-upamecano-auf-was-der-fc-bayern-wartet-15173233.html",
-    "publishedAt": "2026-01-23T10:32:22Z",
-    "source": {
-      "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Fußball-Bundesliga: Poker um Upamecano - auf was der FC Bayern wartet",
-    "description": "Hier finden Sie Informationen zu dem Thema „Fußball-Bundesliga“. Lesen Sie jetzt „Poker um Upamecano - auf was der FC Bayern wartet“.",
-    "url": "https://www.zeit.de/news/2026-01/23/poker-um-upamecano-auf-was-der-fc-bayern-wartet",
-    "publishedAt": "2026-01-23T10:31:17Z",
-    "source": {
-      "name": "Die Zeit"
-    }
-  },
-  {
-    "title": "Fußball-Bundesliga: Poker um Upamecano - auf was der FC Bayern wartet",
-    "description": "Verlängert Dayot Upamecano? Geht er im Sommer ablösefrei? Eine Entscheidung über die Zukunft des Innenverteidigers in München steht weiter aus. Der Trainer wirbt geschickt um ein \"Ja\".",
-    "url": "https://www.stern.de/gesellschaft/regional/bayern/fussball-bundesliga--poker-um-upamecano---auf-was-der-fc-bayern-wartet-37069686.html",
-    "publishedAt": "2026-01-23T10:31:17Z",
-    "source": {
-      "name": "STERN.de"
     }
   }
 ]
