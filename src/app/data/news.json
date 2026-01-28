@@ -1,5 +1,32 @@
 [
   {
+    "title": "Wie Schlotterbeck! - Bayern braucht eine Upa-Deadline",
+    "description": "Warum der FC Bayern Dayot Upamecano eine Frist setzen sollte.",
+    "url": "https://www.bild.de/sport/fussball/wie-nico-schlotterbeck-fc-bayern-braucht-eine-upa-deadline-6977ba09c8889984d668ddca",
+    "publishedAt": "2026-01-26T19:27:54Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "WhatsApp unterliegt ab Mai teilweise dem Digital Services Act",
+    "description": "Die EU-Kommission hat die Meta-Anwendung zu einer \"sehr großen Plattform\" unter dem DSA erklärt -- aber nur in einem bestimmten Bereich.",
+    "url": "https://www.heise.de/news/WhatsApp-unterliegt-ab-Mai-teilweise-dem-Digital-Services-Act-11154844.html",
+    "publishedAt": "2026-01-26T19:25:00Z",
+    "source": {
+      "name": "heise online"
+    }
+  },
+  {
+    "title": "Wie Schlotterbeck - Bayern braucht eine Upa-Deadline!",
+    "description": "Henning Feindt über den Upamecano-Poker beim FC Bayern.",
+    "url": "https://www.bild.de/sport/fussball/upamecano-fc-bayern-braucht-eine-deadline-69770249707d4aa2075813f7",
+    "publishedAt": "2026-01-26T10:15:47Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
     "title": "Medienbericht - Liverpool spricht mit Alonso!",
     "description": "Xabi Alonso könnte Liverpools Trainer werden. Gespräche laufen, während Slot unter Druck steht.",
     "url": "https://www.bild.de/sport/fussball/xabi-alonso-liverpool-spricht-mit-alonso-697641d5a95f53407db884c6",
@@ -24,33 +51,6 @@
     "publishedAt": "2026-01-25T17:16:16Z",
     "source": {
       "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Nach Brooklyns Abrechnung - Diese Worte treffen David und Victoria mitten ins Herz",
-    "description": "Diese Kommentare lesen sich Fans des Beckham-Debakels ganz genau durch.",
-    "url": "https://www.bild.de/unterhaltung/stars-und-leute/nach-brooklyn-beckhams-abrechnung-david-und-victoria-melden-sich-auf-instagram-6975d69ddd411cd046b910ab",
-    "publishedAt": "2026-01-25T16:35:14Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Spanischer Fußball: Für dich, mein Lieber",
-    "description": "Beim 2:0 gegen Villarreal demonstriert die Mannschaft von Real Madrid unter dem neuen Trainer Álvaro Arbeloa, dass sie auch laufen und schuften kann. Und Kylian Mbappé zeigt einem Gegenspieler, wie lässig man Elfmeter verwandeln kann.",
-    "url": "https://www.sueddeutsche.de/sport/spanischer-fussball-real-madrid-villarreal-li.3374897",
-    "publishedAt": "2026-01-25T15:41:43Z",
-    "source": {
-      "name": "Süddeutsche Zeitung"
-    }
-  },
-  {
-    "title": "Oldie Vázquez erlöst Bayer - Mit ältester Startelf gegen die Krise",
-    "description": "Mit der ältesten Startelf der Saison konnte Bayer Leverkusen wieder gewinnen.",
-    "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-sieg-dank-oldie-lucas-vazquez-mit-aeltester-startelf-gegen-die-krise-6975d459f5499fb954b64fb6",
-    "publishedAt": "2026-01-25T09:40:31Z",
-    "source": {
-      "name": "Bild"
     }
   }
 ]
