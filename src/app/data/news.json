@@ -1,5 +1,41 @@
 [
   {
+    "title": "Klubbesitzer in kurzen Hosen – warum Kicker ihr Geld für Fussball ausgeben",
+    "description": "David Beckham hat es vorgemacht, Ronaldo und Co. ziehen nach: Fussballstars haben ihren eigenen Sport als Investment entdeckt. Doch längst nicht immer sind sie damit erfolgreich.",
+    "url": "https://www.nzz.ch/sport/fussball/fussballstars-als-unternehmer-ronaldo-kauft-klubanteile-ld.1927544",
+    "publishedAt": "2026-03-08T04:30:00Z",
+    "source": {
+      "name": "Www.nzz.ch"
+    }
+  },
+  {
+    "title": "Yamal schießt Barcelona zu Sieg gegen Bilbao",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3153327/",
+    "publishedAt": "2026-03-07T22:04:12Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Last-Minute-Sieg: Valverde erlöst Real Madrid – Lob für Youngster Pitarch",
+    "description": "Ein Tor in der Nachspielzeit hat Real Madrid vor dem nächsten Dämpfer im spanischen Titelkampf bewahrt. Bei der Generalprobe für das Champions-League-Achtelfinale gegen Manchester...",
+    "url": "https://www.transfermarkt.de/last-minute-sieg-valverde-erlost-real-gegen-celta-vigo-lob-fur-youngster-pitarch/view/news/476326",
+    "publishedAt": "2026-03-07T08:50:19Z",
+    "source": {
+      "name": "Transfermarkt"
+    }
+  },
+  {
+    "title": "Hinter 7 BVB-Schlüsselspielern steht ein dickes Fragezeichen",
+    "description": "Gibt es bei Borussia Dortmund erneut einen Umbruch? Hinter jedem BVB-Schlüsselspieler steht ein Fragezeichen, auch Trainer Niko Kovac ist auf dem Prüfstand.",
+    "url": "https://www.focus.de/sport/fussball/hinter-7-bvb-schluesselspielern-steht-ein-dickes-fragezeichen_40363e49-8fec-4b92-80a1-2c71d7e09879.html",
+    "publishedAt": "2026-03-07T07:06:00Z",
+    "source": {
+      "name": "Focus"
+    }
+  },
+  {
     "title": "«Ist man ein schlechterer Mensch, wenn man nicht Erster wird?» – Wie der Trainer Gerardo Seoane versucht, den kriselnden Giganten YB zu stabilisieren",
     "description": "Der erfolgreichste Klubtrainer der Schweiz beim grössten Verein der letzten Dekade – trotz der Wiedervereinigung geht es bei den Young Boys nicht aufwärts. Wie geht Seoane damit um? Eine Begegnung.",
     "url": "https://www.nzz.ch/sport/fussball/ist-man-ein-schlechterer-mensch-oder-trainer-wenn-man-nicht-erster-wird-wie-der-trainer-gerardo-seoane-versucht-den-kriselnden-giganten-yb-zu-stabilisieren-ld.1927722",
@@ -15,42 +51,6 @@
     "publishedAt": "2026-03-06T22:13:45Z",
     "source": {
       "name": "Sport.orf.at"
-    }
-  },
-  {
-    "title": "Fußball in Spanien: Tor in der Nachspielzeit rettet Real Madrid den Sieg",
-    "description": "Real Madrid schwächelt, Vigo trifft den Pfosten – und dann kommt Valverde in letzter Sekunde. Im Titelrennen dürfen die Königlichen weiter hoffen.",
-    "url": "https://www.tagesspiegel.de/sport/fussball-in-spanien-tor-in-der-nachspielzeit-rettet-real-madrid-den-sieg-15327936.html",
-    "publishedAt": "2026-03-06T22:09:35Z",
-    "source": {
-      "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "Bayerns Standard-Problem - Kompany gibt Kroos recht!",
-    "description": "Nach der Kritik an den Standard-Gegentoren von Weltmeister Toni Kroos spricht Vincent Kompany darüber. Und der Bayern-Trainer gibt dem Ex-Real-Star recht!",
-    "url": "https://www.bild.de/sport/fussball/fc-bayern-kritik-an-standard-gegentoren-trainer-vincent-kompany-gibt-toni-kroos-recht-69a95fd9cd44b1ca5e1b916b",
-    "publishedAt": "2026-03-06T12:22:52Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Bundesliga-Vorschau: Die wildeste On-off-Beziehung im deutschen Fußball",
-    "description": "Erst geghostet, plötzlich wieder Fels – Leon Goretzka und Julian Nagelsmann nach der Paartherapie. Und: Spießt El Mala den schwarz-gelben Falter auf? Der 25. Spieltag",
-    "url": "https://www.zeit.de/sport/2026-03/leon-goretzka-said-el-mala-bundesliga",
-    "publishedAt": "2026-03-06T12:22:24Z",
-    "source": {
-      "name": "Die Zeit"
-    }
-  },
-  {
-    "title": " Friday's line-up: Bayern, Real Madrid, PSG and Liverpool liven up the day",
-    "description": "WOMEN'S FRIENDLY - U-232:05 PM - Germany vs Belgium - FIFA+GERMAN CHAMPIONSHIP (2ND DIVISION)2:30 PM - Schalke 04 vs Arminia Bielefeld - DFL via OneFootball, YouTube (GOAT)2:30 PM - Elversberg vs Magd...",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ac801b6a-d085-4e63-b6c0-46c00c55832e",
-    "publishedAt": "2026-03-06T07:37:00Z",
-    "source": {
-      "name": "Yahoo Entertainment"
     }
   }
 ]
