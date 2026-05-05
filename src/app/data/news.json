@@ -1,5 +1,41 @@
 [
   {
+    "title": "Real vertagt Meisterentscheidung mit Sieg bei Espanyol",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3155438/",
+    "publishedAt": "2026-05-03T21:12:25Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Fußball in Spanien: Real Madrid vertagt mit Sieg Titelentscheidung",
+    "description": "Der FC Barcelona muss warten: Real Madrid gibt sich im Kampf um die spanische Fußball-Meisterschaft noch nicht geschlagen. Ein Brasilianer hält mit einem Doppelpack die Titelentscheidung offen.",
+    "url": "https://www.tagesspiegel.de/sport/fussball-in-spanien-real-madrid-vertagt-mit-sieg-titelentscheidung-15551992.html",
+    "publishedAt": "2026-05-03T21:02:13Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
+    "title": "Globaler Fußball-Kracher: Hier gibt es das Spiel für alle gratis",
+    "description": "Ein globales Sportereignis, das seit Jahrzehnten Fußballgeschichte schreibt, ist in diesem Jahr gratis für alle zu sehen. Wir verraten, welche Teams beteiligt sind und wer die Begegnung ausstrahlt.",
+    "url": "https://www.teltarif.de/fussball-sport-streaming-fernsehen-dazn/news/103310.html",
+    "publishedAt": "2026-05-03T15:05:00Z",
+    "source": {
+      "name": "Teltarif.de"
+    }
+  },
+  {
+    "title": "Shakira gab kostenlose Konzert vor zwei Millionen Menschen",
+    "description": "Zweieinhalb Stunden lang dauerte die Show von Shakira am Strand von Copacabana in Rio de Janeiro. Sie trat im Rahmen einer Konzertreihe auf, mit der die Stadtverwaltung den Tourismus ankurbeln will.",
+    "url": "https://www.diepresse.com/21774572/shakira-gab-kostenlose-konzert-vor-zwei-millionen-menschen",
+    "publishedAt": "2026-05-03T13:37:44Z",
+    "source": {
+      "name": "Diepresse.com"
+    }
+  },
+  {
     "title": "Rio de Janeiro: Shakira gibt kostenlose Mega-Show an der Copacabana",
     "description": "Zwei Millionen Fans, eine riesige Bühne: Shakiras Auftritt in Rio wird zum Spektakel. Das Mega-Event setzt neue Maßstäbe - und knüpft an eine Konzertreihe mit wachsender Bedeutung an.",
     "url": "https://www.tagesspiegel.de/gesellschaft/rio-de-janeiro-shakira-gibt-kostenlose-mega-show-an-der-copacabana-15549894.html",
@@ -15,42 +51,6 @@
     "publishedAt": "2026-05-03T06:23:10Z",
     "source": {
       "name": "Die Zeit"
-    }
-  },
-  {
-    "title": "Rio de Janeiro: Shakira gibt kostenlose Mega-Show an der Copacabana",
-    "description": "Zwei Millionen Fans, eine riesige Bühne: Shakiras Auftritt in Rio wird zum Spektakel. Das Mega-Event setzt neue Maßstäbe - und knüpft an eine Konzertreihe mit wachsender Bedeutung an.",
-    "url": "https://www.stern.de/lifestyle/rio-de-janeiro--shakira-gibt-kostenlose-mega-show-an-der-copacabana-37363464.html",
-    "publishedAt": "2026-05-03T06:23:10Z",
-    "source": {
-      "name": "STERN.de"
-    }
-  },
-  {
-    "title": "Barcelona mit Chance auf „Couch-Titel“ am Sonntag",
-    "description": null,
-    "url": "https://sport.orf.at/stories/3155401/",
-    "publishedAt": "2026-05-02T21:40:36Z",
-    "source": {
-      "name": "Sport.orf.at"
-    }
-  },
-  {
-    "title": "Flick hat Titel fast sicher: Rivale kann Barça jetzt zum Meister machen",
-    "description": "Der FC Barcelona steht unmittelbar vor dem Gewinn der spanischen Meisterschaft, schon am Sonntag könnte der Titel perfekt gemacht werden - im Duell der Rivalen. Das Team von Hansi Flick hat seine Pflichtaufgabe erledigt.",
-    "url": "https://www.n-tv.de/sport/fussball/Rivale-kann-Barca-jetzt-zum-Meister-machen-id30779605.html",
-    "publishedAt": "2026-05-02T21:35:51Z",
-    "source": {
-      "name": "N-tv.de"
-    }
-  },
-  {
-    "title": "Fußball: Titel vom Sofa aus? Flick legt mit Barcelona vor",
-    "description": "Drei Tore in den Schlussminuten. Eines davon durch Robert Lewandowski. Der FC Barcelona ist dem Titel ganz nah. Nun hängt es vom Spiel des Erzrivalen am Sonntag ab.",
-    "url": "https://www.tagesspiegel.de/sport/fussball-titel-vom-sofa-aus-flick-legt-mit-barcelona-vor-15549663.html",
-    "publishedAt": "2026-05-02T21:10:08Z",
-    "source": {
-      "name": "Der Tagesspiegel"
     }
   }
 ]
