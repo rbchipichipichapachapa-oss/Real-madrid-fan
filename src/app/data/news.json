@@ -1,5 +1,32 @@
 [
   {
+    "title": "Newsletter von BILD-Sportchef Henning Feindt - Guardiola ist jetzt Tuchels Schattenmann",
+    "description": "Liebe Fußball-Fans, die Saison ist für die deutschen Klubs gelaufen. Die heiße WM-Phase geht direkt los. Auch im Fokus: England-Trainer Thomas Tuchel.",
+    "url": "https://www.bild.de/sport/fussball/guardiola-ist-jetzt-tuchels-schattenmann-newsletter-von-bild-sportchef-henning-feindt-6a135efdf0f7eb608db7c9a4",
+    "publishedAt": "2026-05-25T08:43:15Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "Spanische Medien gehen auf Vini Junior los, weil er Alaba-Abschied schwänzt",
+    "description": "David Alaba und Dani Carvajal werden nach dem Spiel von Real Madrid gegen Bilbao emotional verabschiedet. Vinicius „Vini” Junior hatte daran jedoch kein Interesse und verabschiedete sich verfrüht in den Urlaub.",
+    "url": "https://www.focus.de/sport/fussball/spanische-medien-gehen-auf-vini-junior-los-weil-er-alaba-abschied-schwaenzt_93937091-c04f-44d4-a8ca-de344753168e.html",
+    "publishedAt": "2026-05-24T20:15:00Z",
+    "source": {
+      "name": "Focus"
+    }
+  },
+  {
+    "title": "Real Madrid: Emotionaler Abschied von David Alaba",
+    "description": "<ul><li>David Alaba verlässt Real Madrid am Ende dieser Saison</li><li>Der Vertrag des ÖFB-Teamkapitäns wird im Sommer nicht verlängert.</li><li>Alaba kam 2021 ablösefrei von Bayern München und gewann mit Real viele Titel</li></ul>",
+    "url": "https://oe3.orf.at/stories/3053673/",
+    "publishedAt": "2026-05-24T14:13:00Z",
+    "source": {
+      "name": "Oe3.orf.at"
+    }
+  },
+  {
     "title": "Eberl hat mehr Vertrauen verdient – und einen neuen Vertrag",
     "description": "Der FC Bayern gewinnt erstmals seit Jahren das Double. Dennoch ist die Zukunft von Sportvorstand Max Eberl offen. Die Debatte überschattet den Erfolg der Münchner. Der Umgang des Klubs mit der Personalie ist unwürdig. Vor allem ein Faktor spricht für Eberl.",
     "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6a129b47f0f7eb608db7c0a9/fc-bayern-muenchener-posse-max-eberl-hat-mehr-vertrauen-und-einen-neuen-vertrag-verdient.html",
@@ -24,33 +51,6 @@
     "publishedAt": "2026-05-24T07:37:34Z",
     "source": {
       "name": "Diepresse.com"
-    }
-  },
-  {
-    "title": "Mallorca-Urlaub mit neuen Regeln: Müssen Gäste bald drinnen bleiben?",
-    "description": "Wer dieses Jahr nach Mallorca fliegt, muss sich auf Änderungen einstellen. Gäste könnten bei Hitze künftig gezwungen sein, drinnen zu bleiben. Grund dafür ist eine neue Regelung.\nDieser Artikel wurde einsortiert unter \nTechnik im Urlaub,Spanien,Reiseportale,F…",
-    "url": "https://www.netzwelt.de/news/254075-mallorca-urlaub-neuen-regeln-gaeste-bald-drinnen-bleiben.html",
-    "publishedAt": "2026-05-24T07:00:00Z",
-    "source": {
-      "name": "netzwelt"
-    }
-  },
-  {
-    "title": "Emotionaler Abschied für Alaba in Madrid",
-    "description": "David Alaba hat am Samstag auf emotionale Art und Weise Abschied von Real Madrid genommen. Österreichs Fußball-Teamkapitän verließ beim 4:2-Heimsieg über Athletic Bilbao in der 70. Minute unter tosendem Applaus und Standing Ovations der Zuschauer den Rasen de…",
-    "url": "https://sport.orf.at/stories/3156205/",
-    "publishedAt": "2026-05-23T21:21:39Z",
-    "source": {
-      "name": "Sport.orf.at"
-    }
-  },
-  {
-    "title": "Bayern ist Pokalsieger! - DOUBLE-KANE",
-    "description": "Bayern holet das Double aus Meisterschaft und Pokalsieg. Im Finale in Berlin wird Stuttgart 3:0 besiegt. GefeierterHeld ist Harry Kane mit einem Hattrick.",
-    "url": "https://www.bild.de/sport/fussball/bayern-ist-pokalsieger-3-tore-fuer-2-titel-der-saison-double-kane-6a11c4bb9c51a75bc475350a",
-    "publishedAt": "2026-05-23T20:02:28Z",
-    "source": {
-      "name": "Bild"
     }
   }
 ]
