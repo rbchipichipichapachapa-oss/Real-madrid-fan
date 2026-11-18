@@ -1,56 +1,47 @@
 [
   {
-    "title": "Transfer-Ticker: Klapija wird angeboten: Leipzig-Abschied zeichnet sich ab",
-    "description": "Wer geht, wer kommt, wer verlängert? ntv Sport bündelt Nachrichten, Videos und Hintergründe zu Transfers, Gerüchten, Ablösen und Topklubs.",
-    "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-RB-Leipzig-bietet-Din-Klapija-an-Wechsel-in-die-USA-moeglich-id31539031.html",
-    "publishedAt": "2026-11-16T12:50:00Z",
-    "source": {
-      "name": "N-tv.de"
-    }
-  },
-  {
-    "title": "Head-to-Head: Deutschland setzt sich haarscharf 6:5 gegen die Niederlande durch",
-    "description": "Deutschland gegen die Niederlande: Wer hat im direkten Spielervergleich die besseren Aussichten? Bewerten Sie jedes Duell.",
-    "url": "https://www.focus.de/sport/fussball/head-to-head-deutschland-setzt-sich-haarscharf-6-5-gegen-die-niederlande-durch_80876b32-705d-40b3-b540-4c9522e41cbc.html",
-    "publishedAt": "2026-11-16T12:41:00Z",
-    "source": {
-      "name": "Focus"
-    }
-  },
-  {
-    "title": "Abgang plötzlich England-Zweiter - Dieser Chema fehlt dem VfB",
-    "description": "Der VfB vermisst den verkauften Chema, der bei Brighton nun aufblüht und dessen Spielerprofil im Stuttgarter Mittelfeld fehlt.",
-    "url": "https://www.bild.de/sport/fussball/vfb-stuttgart-deadline-day-abgang-ploetzlich-england-zweiter-dieser-chema-fehlt-dem-vfb-6af983634468a1e3991a30a6",
-    "publishedAt": "2026-11-16T09:06:09Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Riesen-Zoff der Real-Riesen - Bellingham schreit Cucurella an",
-    "description": "Jude Bellingham geht im Nations-League-Duell mit Spanien energisch auf Marc Cucurella zu. Lesen Sie, warum der Real-Star seinen Teamkollegen sogar auf die Beine ziehen will.",
-    "url": "https://www.bild.de/sport/fussball/real-madrid-jude-bellingham-schreit-marc-cucurella-an-6afaaa2d629e93479f6dbd5d",
-    "publishedAt": "2026-11-16T07:35:38Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Fußball-Nationalmannschaft: Drei Streifen als Staatsaffäre und neue DFB-Zeiten mit Nike",
-    "description": "Es ist eine Zeitenwende beim DFB: Nach mehr als 70 Jahren wechselt der Verband von Adidas zu Nike als Ausrüster. Der Rekord-Deal passt so gar nicht zur Krise des neuen Partners.",
-    "url": "https://www.tagesspiegel.de/sport/dpa-fussball-nationalmannschaft-drei-streifen-als-staatsaffare-und-neue-dfb-zeiten-mit-nike-16288054.html",
-    "publishedAt": "2026-11-16T06:16:38Z",
+    "title": "Real Madrid begrüßt Urteil: Haftstrafe nach rassistischen Beleidigungen gegen Mbappé",
+    "description": "Ein Fan verhöhnt Kylian Mbappé mit Affenlauten - und wird dabei gefilmt. Das hat jetzt Konsequenzen.",
+    "url": "https://www.tagesspiegel.de/sport/dpa-real-madrid-begrusst-urteil-haftstrafe-nach-rassistischen-beleidigungen-gegen-mbappe-16295972.html",
+    "publishedAt": "2026-11-17T14:45:59Z",
     "source": {
       "name": "Der Tagesspiegel"
     }
   },
   {
-    "title": "In seiner Berliner Heimat - Star-Besuch beim Rüdiger-Abschied",
-    "description": "Antonio Rüdiger wird in Berlin aus der Nationalmannschaft verabschiedet. Sein Freund Leroy Sané ist dabei. Alle Details zur Ehrung und zum Holland-Kracher.",
-    "url": "https://www.bild.de/sport/fussball/antonio-ruediger-sane-kommt-zu-seinem-dfb-abschied-6af990934495f9bd85b80bec",
-    "publishedAt": "2026-11-15T15:49:01Z",
+    "title": "Mbappé rassistisch beleidigt - Elf Monate Haft für Fußballfan",
+    "description": "Weil er Real Madrids Superstar Kylian Mbappé (23) rassistisch beleidigt hat, ist ein Fußballfan in Spanien zu einer Haftstrafe verurteilt worden",
+    "url": "https://www.bild.de/sport/fussball/kylian-mbappe-fan-wegen-rassistischer-beleidigung-zu-elf-monaten-haft-verurteilt-6afc572bbb7e7a6679f91575",
+    "publishedAt": "2026-11-17T13:58:44Z",
     "source": {
       "name": "Bild"
+    }
+  },
+  {
+    "title": "Kantersieg für Brasilien - Vinicius: Frust trotz Blitz-Hattrick",
+    "description": "Der Sieg war deutlich, doch die Begeisterung in Brasilien hielt sich in Grenzen.",
+    "url": "https://www.bild.de/sport/fussball/frust-bei-vinicius-jr-trotz-hattrick-fuer-brasilien-6afc500a80722ed8fbcb0eb1",
+    "publishedAt": "2026-11-17T13:39:21Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "Ein Land liegt Klopp zu Füßen: Wahnsinnige DFB-Elf macht den Bundestrainer verrückt",
+    "description": "Sechs Länderspiele braucht Jürgen Klopp, um bei der Nationalmannschaft alles auf den Kopf zu stellen. Die DFB-Elf feiert gegen die Niederlande eine surreale Gala - und der Bundestrainer zeigt, weshalb er der richtige Mann zur richtigen Zeit ist.",
+    "url": "https://www.n-tv.de/sport/fussball/Wahnsinnige-DFB-Elf-macht-den-Bundestrainer-verrueckt-id31541251.html",
+    "publishedAt": "2026-11-17T05:28:33Z",
+    "source": {
+      "name": "N-tv.de"
+    }
+  },
+  {
+    "title": "„Charakter mit Herz“ – Fans verabschieden Antonio Rüdiger mit Applaus",
+    "description": "Antonio Rüdiger hat nach dem WM-Aus im vergangenen Sommer seine Karriere in der Nationalelf beendet. Der umstrittene Abwehrspieler wurde vor dem Länderspiel gegen die Niederlande offiziell verabschiedet.",
+    "url": "https://www.welt.de/sport/fussball/article6afb659bbfa018bfcc9895f1/antonio-ruediger-mit-applaus-verabschiedet-charakter-mit-herz.html",
+    "publishedAt": "2026-11-16T20:50:58Z",
+    "source": {
+      "name": "DIE WELT"
     }
   }
 ]
