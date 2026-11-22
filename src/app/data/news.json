@@ -1,38 +1,56 @@
 [
   {
-    "title": "Warum es sich die Bayern leisten können, Harry Kane 30 Millionen Euro pro Saison zu bezahlen",
-    "description": "Wirtschaftlich spielt der FC Bayern München ganz oben mit. Und das, obwohl er sich mit etwas rumschlagen muss, was der internationalen Konkurrenz erspart bleibt: Fans, die mitbestimmen dürfen.",
-    "url": "https://www.nzz.ch/sport/fussball/warum-es-sich-die-bayern-leisten-koennen-harry-kane-30-millionen-euro-pro-saison-zu-bezahlen-ld.10068548",
-    "publishedAt": "2026-11-20T12:38:59Z",
+    "title": "Tennis-Ikone Nadal in Vorstand von Real Madrid gewählt",
+    "description": "99,5 Prozent Zustimmung bei außerordentlicher Generalversammlung für die ehemalige Nummer eins der Weltrangliste. Rekordumsatz von Real",
+    "url": "https://www.derstandard.at/story/3000000350369/tennis-ikone-nadal-in-vorstand-von-real-madrid-gewaehlt",
+    "publishedAt": "2026-11-21T13:20:17Z",
+    "source": {
+      "name": "derStandard.at"
+    }
+  },
+  {
+    "title": "Tennis-Ikone Nadal in Vorstand von Real Madrid gewählt",
+    "description": "„Es ist eine riesige Freude und eine riesige Genugtuung“, sagte der 40-jährige Nadal, der bereits Ehrenmitglied bei Real Madrid war und nun mit 99,5 Prozent der Stimmen in den Vorstand gewählt wurde.",
+    "url": "https://www.diepresse.com/41476782/tennis-ikone-nadal-in-vorstand-von-real-madrid-gewaehlt",
+    "publishedAt": "2026-11-21T13:17:02Z",
+    "source": {
+      "name": "Diepresse.com"
+    }
+  },
+  {
+    "title": "Japaner in Frankfurt: Die zwei Gesichter des Ritsu Doan",
+    "description": "Im Nationalteam der Anführer, in Frankfurt ein Mitläufer: Ritsu Doan ist bisher nur an einem Eintracht-Tor beteiligt. Trainer Adi Hütter schätzt ihn aber wegen anderer Fähigkeiten.",
+    "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/bundesliga-eintracht-frankfurt-profi-ritsu-doan-zeigt-zwei-gesichter-accg-201701601.html",
+    "publishedAt": "2026-11-21T13:04:53Z",
+    "source": {
+      "name": "Faz.net"
+    }
+  },
+  {
+    "title": "Tennislegende Nadal neu im Vorstand von Real Madrid",
+    "description": null,
+    "url": "https://sport.orf.at/stories/3165240/",
+    "publishedAt": "2026-11-21T13:01:18Z",
+    "source": {
+      "name": "Sport.orf.at"
+    }
+  },
+  {
+    "title": "Nach der Karriere: Tennis-Ikone ein Königlicher: Nadal nun im Real-Vorstand",
+    "description": "Rafael Nadel war bereits Ehrenmitglied von Real Madrid. Nun übernimmt er einen Posten im Vorstand des spanischen Traditionsclubs. Für das Vertrauen dankt er mit emotionalen Worten.",
+    "url": "https://www.tagesspiegel.de/sport/dpa-nach-der-karriere-tennis-ikone-ein-koniglicher-nadal-nun-im-real-vorstand-16311059.html",
+    "publishedAt": "2026-11-21T12:52:14Z",
+    "source": {
+      "name": "Der Tagesspiegel"
+    }
+  },
+  {
+    "title": "«La bola negra»: Das unvollendete Vermächtnis von Federico García Lorca wird in Spanien zum Kinophänomen",
+    "description": "Vor seiner Ermordung im Bürgerkrieg arbeitete der Dichter an einem Theaterstück über Homosexualität. Neunzig Jahre später macht das spanische Regieduo «Los Javis» aus der Skizze eine Feier der Homosexualität.",
+    "url": "https://www.nzz.ch/feuilleton/kino-fernsehen-streaming/la-bola-negra-das-unvollendete-vermaechtnis-von-federico-garcia-lorca-wird-in-spanien-zum-kinophaenomen-ld.10068823",
+    "publishedAt": "2026-11-21T04:30:00Z",
     "source": {
       "name": "Www.nzz.ch"
-    }
-  },
-  {
-    "title": "Deutschland kämpft gegen Spanien und Portugal um 17-jähriges Frauenfußball-Talent",
-    "description": "Drei Länder wollen Ariana Schäfer für sich gewinnen. Die 17-Jährige spielte für Portugals Nachwuchs, doch auch Deutschland und Spanien machen sich Hoffnungen.",
-    "url": "https://www.focus.de/sport/fussball/deutschland-kaempft-gegen-spanien-und-portugal-um-17-jaehriges-frauenfussball-talent_d87aa032-5996-41d7-9360-543d399664dd.html",
-    "publishedAt": "2026-11-20T12:24:00Z",
-    "source": {
-      "name": "Focus"
-    }
-  },
-  {
-    "title": "Auch der DFB - Drei Länder kämpfen um Frauenfußball-Talent",
-    "description": "Ariana Schäfer beantragt den deutschen Pass und könnte für mehrere Nationalteams spielen.",
-    "url": "https://www.bild.de/sport/fussball/auch-der-dfb-drei-laender-kaempfen-um-fussball-talent-ariana-schaefer-6afefeeec1e8003ef73c4794",
-    "publishedAt": "2026-11-19T13:58:57Z",
-    "source": {
-      "name": "Bild"
-    }
-  },
-  {
-    "title": "Transfer-Ticker: Offiziell: Real Madrid verlängert schon wieder mit Tchouaméni",
-    "description": "Wer geht, wer kommt, wer verlängert? ntv Sport bündelt Nachrichten, Videos und Hintergründe zu Transfers, Gerüchten, Ablösen und Topklubs.",
-    "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-Aurelien-Tchouameni-verlaengert-bei-Real-Madrid-erneut-bis-2032-id31553942.html",
-    "publishedAt": "2026-11-19T10:55:00Z",
-    "source": {
-      "name": "N-tv.de"
     }
   }
 ]
