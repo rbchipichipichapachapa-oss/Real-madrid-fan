@@ -1,5 +1,32 @@
 [
   {
+    "title": "„Wir sind ein Teil des Klubs“ - Bayer lädt Kroaten-Legenden ein",
+    "description": "Bayer Leverkusen lud am Vorabend des Spiels bei Dinamo Zagreb seinen kroatischen Ex-Spieler zum Essen ein.",
+    "url": "https://www.bild.de/sport/fussball/europa-league-bayer-04-laedt-seine-kroaten-legenden-zum-essen-in-zagreb-ein-6b07fe191d0c4f9ebad704a3",
+    "publishedAt": "2026-11-26T11:21:01Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
+    "title": "„Die Hoffnungen des FC Bayern hängen am seidenen Faden“",
+    "description": "Der verletzte Harry Kane fehlt dem FC Bayern sehr. Mit einer Not-Offensive verlieren die Münchner im Champions-League-Spiel in Lille. Die Reaktionen in Europas Presse fallen unterschiedlich aus.",
+    "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b07e890d4a4a3142c5743da/pressestimmen-die-hoffnungen-des-fc-bayern-haengen-am-seidenen-faden.html",
+    "publishedAt": "2026-11-26T09:05:59Z",
+    "source": {
+      "name": "DIE WELT"
+    }
+  },
+  {
+    "title": "Pressestimmen zur Bayern-Pleite - „Statt Musik und Bier herrscht nur noch Lärm und Unmut“",
+    "description": "Lille besiegt Bayern 2:1 und beendet die Serie von 17 ungeschlagenen Spielen. Europas Medien analysieren die überraschende Niederlage und Bayerns Champions-League-Sorgen.",
+    "url": "https://www.bild.de/sport/fussball/fc-bayern-schwarzer-abend-fuer-kompany-6b07e598d4a4a3142c57434a",
+    "publishedAt": "2026-11-26T08:49:43Z",
+    "source": {
+      "name": "Bild"
+    }
+  },
+  {
     "title": "Champions League: Ancelotti als Vater, Guardiola und Klopp als Vorbild",
     "description": "Davide Ancelotti hat viel von einem der besten Fußballtrainer gelernt. Nun will er als Chefcoach von OSC Lille andere Wege gehen als Vater Carlo – und gegen den FC Bayern einen großen Coup landen.",
     "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-osc-lille-trainer-davide-ancelotti-will-fc-bayern-muenchen-aergern-201711806.html",
@@ -24,33 +51,6 @@
     "publishedAt": "2026-11-25T13:52:21Z",
     "source": {
       "name": "N-tv.de"
-    }
-  },
-  {
-    "title": "Fußball-Bundesliga: Wird dieser Bayern-Star Afrikas Fußballer des Jahres?",
-    "description": "Der Fußballer des Jahres in Afrika wird Anfang Dezember gekürt. Zu den verbliebenen Kandidaten gehört auch ein aktueller Profi des FC Bayern.",
-    "url": "https://www.tagesspiegel.de/sport/dpa-fussball-bundesliga-wird-dieser-bayern-star-afrikas-fussballer-des-jahres-16324273.html",
-    "publishedAt": "2026-11-25T12:45:24Z",
-    "source": {
-      "name": "Der Tagesspiegel"
-    }
-  },
-  {
-    "title": "\"Alles hinterfragen\": Tormonster Erling Haaland trägt schwer an der Krise von Manchester City",
-    "description": "Wenn Erling Haaland strahlt, gehen neue Welten auf. Doch dem Norweger ist dieser Tage nicht nach Freude. Sein Klub Manchester City nimmt sich eine November-Krise. Das schmerzt ihn sehr. Zweifel überlagern alle Gedanken.",
-    "url": "https://www.n-tv.de/sport/fussball/Tormonster-Erling-Haaland-traegt-schwer-an-der-Krise-von-Manchester-City-id31575540.html",
-    "publishedAt": "2026-11-25T12:42:06Z",
-    "source": {
-      "name": "N-tv.de"
-    }
-  },
-  {
-    "title": "Martínez stellt Klubrekord auf - So torgeil war Leverkusen noch nie",
-    "description": "Leverkusens Trainer Carles Martínez hat einen neuen Vereinsrekord aufgestellt.",
-    "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-carles-martinez-stellt-klubrekord-auf-so-torgeil-war-bayer-04-noch-nie-6b05b1a1aabf9675c80f3a39",
-    "publishedAt": "2026-11-25T09:50:59Z",
-    "source": {
-      "name": "Bild"
     }
   }
 ]
